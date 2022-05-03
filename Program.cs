@@ -1,4 +1,4 @@
-﻿using System;
+﻿using static System.Console;
 
 namespace Revisao
 {
@@ -15,13 +15,13 @@ namespace Revisao
                 switch (opcaoUsuario)
                 {
                     case "1":
-                        Console.WriteLine("Informe o nome do aluno:");
+                        WriteLine("Informe o nome do aluno:");
                         var aluno = new Aluno();
-                        aluno.Nome = Console.ReadLine();
+                        aluno.Nome = ReadLine();
 
-                        Console.WriteLine("Informe a nota do aluno:");
+                        WriteLine("Informe a nota do aluno:");
 
-                        if (decimal.TryParse(Console.ReadLine(), out decimal nota))
+                        if (decimal.TryParse(ReadLine(), out decimal nota))
                         {
                             aluno.Nota = nota;
                         }
@@ -39,7 +39,7 @@ namespace Revisao
                         {
                             if (!string.IsNullOrEmpty(a.Nome))
                             {
-                                Console.WriteLine($"ALUNO: {a.Nome} - NOTA: {a.Nota}");
+                                WriteLine($"ALUNO: {a.Nome} - NOTA: {a.Nota}");
                             }
                         }
                         break;
@@ -80,7 +80,7 @@ namespace Revisao
                             conceitoGeral = Conceito.A;
                         }
 
-                        Console.WriteLine($"MÉDIA GERAL: {mediaGeral} - CONCEITO: {conceitoGeral}");
+                        WriteLine($"MÉDIA GERAL: {mediaGeral} - CONCEITO: {conceitoGeral}");
 
                         break;
                     default:
@@ -93,16 +93,16 @@ namespace Revisao
 
         private static string ObterOpcaoUsuario()
         {
-            Console.WriteLine();
-            Console.WriteLine("Informe a opção desejada:");
-            Console.WriteLine("1- Inserir novo aluno");
-            Console.WriteLine("2- Listar alunos");
-            Console.WriteLine("3- Calcular média geral");
-            Console.WriteLine("X- Sair");
-            Console.WriteLine();
+            WriteLine();
+            WriteLine("Informe a opção desejada:");
+            WriteLine("1- Inserir novo aluno");
+            WriteLine("2- Listar alunos");
+            WriteLine("3- Calcular média geral");
+            WriteLine("X- Sair");
+            WriteLine();
 
-            string opcaoUsuario = Console.ReadLine();
-            Console.WriteLine();
+            string opcaoUsuario = ReadLine();
+            WriteLine();
             return opcaoUsuario;
         }
     }
