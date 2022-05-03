@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "RLNeBzYsnWbkrkos4YJ20/zNpoQGd7v+FwGuyKH6x/345qgbp1M4HOs+lryNX4q1J/Z6jFoy8rU6rZU6hrwUGQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Daniel\\Desktop\\C#\\csharpExamplesMaster\\Revisao\\Revisao.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Daniel\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Daniel\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Daniel\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Daniel\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512"
+  ],
+  "logs": []
+}

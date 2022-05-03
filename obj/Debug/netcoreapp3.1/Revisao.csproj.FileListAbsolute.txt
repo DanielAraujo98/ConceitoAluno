@@ -1,0 +1,14 @@
+C:\Users\Daniel\Desktop\C#\csharpExamplesMaster\Revisao\bin\Debug\netcoreapp3.1\Revisao.exe
+C:\Users\Daniel\Desktop\C#\csharpExamplesMaster\Revisao\bin\Debug\netcoreapp3.1\Revisao.deps.json
+C:\Users\Daniel\Desktop\C#\csharpExamplesMaster\Revisao\bin\Debug\netcoreapp3.1\Revisao.runtimeconfig.json
+C:\Users\Daniel\Desktop\C#\csharpExamplesMaster\Revisao\bin\Debug\netcoreapp3.1\Revisao.runtimeconfig.dev.json
+C:\Users\Daniel\Desktop\C#\csharpExamplesMaster\Revisao\bin\Debug\netcoreapp3.1\Revisao.dll
+C:\Users\Daniel\Desktop\C#\csharpExamplesMaster\Revisao\bin\Debug\netcoreapp3.1\Revisao.pdb
+C:\Users\Daniel\Desktop\C#\csharpExamplesMaster\Revisao\obj\Debug\netcoreapp3.1\Revisao.csproj.AssemblyReference.cache
+C:\Users\Daniel\Desktop\C#\csharpExamplesMaster\Revisao\obj\Debug\netcoreapp3.1\Revisao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\Desktop\C#\csharpExamplesMaster\Revisao\obj\Debug\netcoreapp3.1\Revisao.AssemblyInfoInputs.cache
+C:\Users\Daniel\Desktop\C#\csharpExamplesMaster\Revisao\obj\Debug\netcoreapp3.1\Revisao.AssemblyInfo.cs
+C:\Users\Daniel\Desktop\C#\csharpExamplesMaster\Revisao\obj\Debug\netcoreapp3.1\Revisao.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\C#\csharpExamplesMaster\Revisao\obj\Debug\netcoreapp3.1\Revisao.dll
+C:\Users\Daniel\Desktop\C#\csharpExamplesMaster\Revisao\obj\Debug\netcoreapp3.1\Revisao.pdb
+C:\Users\Daniel\Desktop\C#\csharpExamplesMaster\Revisao\obj\Debug\netcoreapp3.1\Revisao.genruntimeconfig.cache
